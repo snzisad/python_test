@@ -6,3 +6,4 @@ def second method():
 
 def update():
 	print("Updated from my local pc 2")
+	print("This is second file fro aoter")
